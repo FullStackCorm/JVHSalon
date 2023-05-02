@@ -6,7 +6,7 @@
 
 ## About The Project
 
-<img src="mediaImages/xdiggitydee.gif" />
+<img src="images/JHVanity.PNG" />
 
 A website created for a local salon. Users can:
   * schedule & cancel appointments
